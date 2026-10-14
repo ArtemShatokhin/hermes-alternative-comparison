@@ -22,6 +22,9 @@ Hermes, OpenClaw, and OpenHands facts come from each project's own repository, c
 - [Kortix vs Hermes](https://hermesalternative.com/kortix-vs-hermes): the head-to-head for one operator and one team.
 - [Open-source Hermes alternatives](https://hermesalternative.com/hermes-alternatives): who each open-source agent fits, and what each one is not.
 - [Self-hosting a Hermes alternative](https://hermesalternative.com/self-hosting-hermes-alternative): the platform a team owns, on one Docker Compose stack.
+- [Hermes vs OpenClaw](https://hermesalternative.com/hermes-vs-openclaw): the chat-app assistant set against the personal agent, with Kortix on the same rows.
+- [Hermes Agent vs OpenJarvis](https://hermesalternative.com/hermes-agent-vs-openjarvis): a second head-to-head for teams that weigh Hermes Agent beside OpenJarvis.
+- [What Hermes Agent is](https://hermesalternative.com/what-is-hermes-agent): the entity, its learning loop, and where a personal agent stops.
 
 ## The notes in this repository
 
